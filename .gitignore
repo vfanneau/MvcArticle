@@ -1,0 +1,10 @@
+.git/
+.vs/
+bin/
+obj/
+Properties/
+wwwroot/
+MvcArticle.csproj.user
+MvcArticle.sln
+appsettings.json
+appsettings.Development.json
